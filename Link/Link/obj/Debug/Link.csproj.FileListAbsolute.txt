@@ -1,0 +1,10 @@
+E:\test C#\Link\Link\bin\Debug\Link.exe.config
+E:\test C#\Link\Link\bin\Debug\Link.exe
+E:\test C#\Link\Link\bin\Debug\Link.pdb
+E:\test C#\Link\Link\obj\Debug\Link.csproj.AssemblyReference.cache
+E:\test C#\Link\Link\obj\Debug\Link.Properties.Resources.resources
+E:\test C#\Link\Link\obj\Debug\Link.csproj.GenerateResource.cache
+E:\test C#\Link\Link\obj\Debug\Link.csproj.CoreCompileInputs.cache
+E:\test C#\Link\Link\obj\Debug\Link.exe
+E:\test C#\Link\Link\obj\Debug\Link.pdb
+E:\test C#\Link\Link\obj\Debug\Link.Form1.resources
